@@ -1,0 +1,13 @@
+{
+  "name": "matchmates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bootcamp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon index",
+    "start": "index"
+  },
+  "author": "amine",
+  "license": "ISC"
+}
